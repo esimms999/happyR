@@ -5,4 +5,4 @@ title: "About"
 This is a simple quarto project, which has been constructed by Eric as a retirement gift to R. 
 
 
-v0.1.1
+v0.1.2
