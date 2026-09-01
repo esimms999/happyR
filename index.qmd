@@ -8,7 +8,7 @@ R's last working day: Monday August 31, 2026.
 
 ```{r}
 #| echo: false
-today_date <- Sys.Date()
+today_date <- as.Date(format(Sys.time(), tz = "America/New_York"))
 
 days <- as.numeric(as.Date("31aug2026", "%d%b%Y") - today_date)
 if (abs(days) == 1) {
