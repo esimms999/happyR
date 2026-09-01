@@ -18,12 +18,14 @@ if (abs(days) == 1) {
 }
 
 if(days == 0) {
-  cat("Today is ", format(today_date, "%B %-d, %Y"), ". Last working day. R must hand in the laptop, charger, \nbuilding pass and Amex card. And say goodbye!", sep = "")
+  cat("Today is ", format(today_date, "%B %-d, %Y"), ". Last working day. R must hand in \nthe laptop, charger, building pass and Amex card. \n\nAnd say goodbye!", sep = "")
   } else {
     if(days < 0) {
       msg <- cat("Today is ", format(today_date, "%B %-d, %Y"), ". R has already been retired ", days_text, ".", sep = "")
       } else {
         msg <- cat("Today is ", format(today_date, "%B %-d, %Y"), ". R has ", days_text, " before he is done.", sep = "")
       }
-    }
+  }
 ```
+
+{{< video ./R.mov width="200" height="360" >}}
