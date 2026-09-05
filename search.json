@@ -1,16 +1,16 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HappyR",
-    "section": "",
-    "text": "This page is a celebration of R. And what makes him very happy: RETIREMENT!\nR’s last working day: Monday August 31, 2026.\n\n\nToday is September 4, 2026. R has already been retired 4 days."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "This is a simple quarto project, which has been constructed by Eric as a retirement gift to R.\nv0.1.2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HappyR",
+    "section": "",
+    "text": "This page is a celebration of R. And what makes him very happy: RETIREMENT!\nR’s last working day: Monday August 31, 2026.\n\n\nToday is September 5, 2026. R has already been retired 5 days."
   }
 ]
